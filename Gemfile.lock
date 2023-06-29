@@ -60,7 +60,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -92,7 +92,6 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -104,7 +103,6 @@ DEPENDENCIES
   jemoji
   kramdown-parser-gfm
   minima!
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.0.1
